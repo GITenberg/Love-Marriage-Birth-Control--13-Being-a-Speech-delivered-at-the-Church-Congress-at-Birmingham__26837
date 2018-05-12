@@ -1,0 +1,31 @@
+_repo: Love-Marriage-Birth-Control--13-Being-a-Speech-delivered-at-the-Church-Congress-at-Birmingham__26837
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dawson, Bertrand Edward Dawson, Viscount
+    birthdate: 1864
+    deathdate: 1945
+    gutenberg_agent_id: '32265'
+    url: http://www.gutenberg.org/2009/agents/32265
+    wikipedia: http://en.wikipedia.org/wiki/Bertrand_Dawson,_1st_Viscount_Dawson_of_Penn
+description: ''
+gutenberg_bookshelf: Sociology
+gutenberg_issued: '2008-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26837'
+language: en
+publication_note: 'London: Nisbet & Co. Ltd., 1922'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Contraception'
+- !lcc 'HQ'
+- !lcsh 'Sexual ethics'
+title: "Love—Marriage—Birth Control\r\nBeing a Speech delivered at the Church Congress\
+  \ at Birmingham, October, 1921"
+url: http://www.gutenberg.org/ebooks/26837
