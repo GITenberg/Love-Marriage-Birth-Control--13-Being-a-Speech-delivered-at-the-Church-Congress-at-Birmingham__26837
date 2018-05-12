@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32265
     wikipedia: http://en.wikipedia.org/wiki/Bertrand_Dawson,_1st_Viscount_Dawson_of_Penn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26837#Love-Marriage-Birth-Control--13-Being-a-Speech-delivered-at-the-Church-Congress-at-Birmingham_
 gutenberg_bookshelf: Sociology
 gutenberg_issued: '2008-10-07'
 gutenberg_type: Text
